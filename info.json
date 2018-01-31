@@ -1,0 +1,35 @@
+<script type="application/json">
+{
+  "@context": "https://restaurant.michelin.fr/",
+  "@type": "",
+  "name": "",
+  "acceptsReservations": "",
+  "menu": "",
+  "type": "",
+  "address": {
+    "@type": "",
+    "streetAddress": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "postalCode": ""
+  },
+  "coordonnées": {
+    "telephone": "",
+    "website": "",
+  },
+
+  "recommended":"",
+  "deal":"",
+  "information":"",
+  "@opening": {
+    "lundi":"",
+    "mardi":"",
+    "mercredi":"",
+    "jeudi":"",
+    "vendredi":"",
+    "samedi":"",
+    "dimanche":"",
+
+  }
+}
+</script>
